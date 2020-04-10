@@ -1,0 +1,11 @@
+body{
+  background-color: #9266ff;
+  /* height :100%; */
+}
+.App{
+  background-color: #3f3160;
+  /* min-height:500px; */
+  /* width: 400px; */
+  height:100%;
+  /* margin: 40px auto; */
+}
